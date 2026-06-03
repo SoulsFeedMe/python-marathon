@@ -1,1 +1,1 @@
-# hello world
+# МАРАФОН Python ДО КОНЦА ЛЕТА
