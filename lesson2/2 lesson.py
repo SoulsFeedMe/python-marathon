@@ -1,9 +1,3 @@
-a = int(input())
-b = int(input())
-print(3 * (a * a * a + b * b * b) + 275 * b * 275 * b - 127 * a - 41)
-
-
-
 s = '52' 
 num0 = int(s) # int() - функция, которая преобразует строку в число
 print (num0)
