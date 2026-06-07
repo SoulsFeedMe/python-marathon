@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img  src="https://serverflow.ru/upload/iblock/cdd/exequ9uxhef8kt4qnv3hut2diuztirdv/python-314.jpg" height="2000" width="2000" />
+  #МАРАФОН PYTHON ДО КОНЦА ЛЕТА
+<h1 align="center">
+  <img  src="https://serverflow.ru/upload/iblock/cdd/exequ9uxhef8kt4qnv3hut2diuztirdv/python-314.jpg" height="3000" width="2015" />
 <h1 align="center">
   <img  src="https://github.com/SoulsFeedMe/python-maraphon/blob/main/lesson1/2026-06-05_01-47-58.png?raw=true" height="2000" width="2000" />
 <h1 align="center">
