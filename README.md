@@ -1,9 +1,9 @@
 <h1 align="center">
-  #МАРАФОН PYTHON ДО КОНЦА ЛЕТА
+  # МАРАФОН PYTHON ДО КОНЦА ЛЕТА
 <h1 align="center">
   <img  src="https://serverflow.ru/upload/iblock/cdd/exequ9uxhef8kt4qnv3hut2diuztirdv/python-314.jpg" height="2015" width="3000" />
   <h1 align="center">
-    #ГЛОССАРИЙ
+    # ГЛОССАРИЙ
 <h1 align="center">
   <img  src="https://github.com/SoulsFeedMe/python-maraphon/blob/main/lesson1/2026-06-05_01-47-58.png?raw=true" height="2000" width="2000" />
 <h1 align="center">
